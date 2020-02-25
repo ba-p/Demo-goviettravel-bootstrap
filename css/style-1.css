@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fb-1{
+    color: white;
+}
+.fb-1:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.logo{
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.gr-1{
+    padding-top: 20px;
+}
+
+.font-1{
+    font-size: 12px;
+}
