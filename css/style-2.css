@@ -1,0 +1,71 @@
+.pic-2-1{
+    background-image: url(/images/-uploaded-tour-Tour\ trong\ nuoc-Dong\ bang\ SCL-cantho_cho-noi-cai-rang_cr_420x270.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+.pic-2-2{
+    background-image: url(/images/at_ve-dep-tu-dinh-deo-mien-tay-bac_286ebc842bd9e9b2e04675fa779a086b.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+.pic-2-3{
+    background-image: url(/images/1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.com-2-1{
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.link-2{
+    color:black;
+}
+.link-2:hover{
+    text-decoration: none;
+}
+
+.und{
+    color: red;
+    font-weight: bold;
+}
+.no-und{
+    color:red;
+}
+
+.map-2{
+    font-size: 13px;
+    padding-left: 5px;
+}
+
+.button-2{
+    margin-left: 280px;
+}
+.button-2-1{
+    margin-left: 500px;
+    
+}
+.button-2-2{
+    margin-left: 570px;
+}
+
+.title-2{
+    font-weight: bold;
+    margin-left: 180px;
+    margin-top: 20px;
+    margin-bottom: -30px;
+    font-size:18px;
+}
+
+.f-title{
+    margin-bottom: -30px;
+}
