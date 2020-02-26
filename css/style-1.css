@@ -4,6 +4,7 @@ body{
 
 .fb-1{
     color: white;
+    margin-top: 10px;
 }
 .fb-1:hover{
     color: white;
@@ -22,4 +23,31 @@ body{
 
 .font-1{
     font-size: 12px;
+}
+.font-1-1{
+    display: flex;
+
+}
+
+.background-1{
+    background-image: url(/images/Untitled-1-13.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.main-1{
+    margin-top:190px;
+    
+}
+
+.main-1-1{
+    font-size: 54px;
+    color:white;
+    font-weight: bold;
+}
+.main-1-2{
+    color:#bbb;
+    font-size:22px;
 }
