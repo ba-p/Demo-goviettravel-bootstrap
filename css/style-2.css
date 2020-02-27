@@ -51,21 +51,63 @@
     margin-left: 280px;
 }
 .button-2-1{
-    margin-left: 500px;
+    margin-left: 170px;
     
 }
 .button-2-2{
-    margin-left: 570px;
+    margin-left: 390px;
 }
 
 .title-2{
     font-weight: bold;
-    margin-left: 180px;
+    margin-left: 0px;
     margin-top: 20px;
     margin-bottom: -30px;
     font-size:18px;
+     
 }
 
-.f-title{
-    margin-bottom: -30px;
+.button-2-1-1{
+    margin-left: 330px;
+}
+
+.main-2{
+    width: 1500px;
+}
+
+.list-2{
+    list-style: none;
+    margin-top: 40px;
+}
+.button-2-3{
+    margin-left: 100px;
+}
+
+.pic-2-2-1{
+    background-image: url(/images/du-lich-tam-coc.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+.pic-2-2-2{
+    background-image: url(/images/275762154940.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+.pic-2-2-3{
+    background-image: url(/images/74485.png);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+.tit-2-2-1{
+    color:white;
+    padding-top: 165px;
+    font-size: 12px;
+    padding-left: 10px;
+    
 }
